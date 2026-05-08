@@ -1,0 +1,4 @@
+interface:
+  display_name: "UESTCreport"
+  short_description: "Create and compile UESTC course reports"
+  default_prompt: "Use $uestcreport to create and compile a UESTC course report template in this project."
